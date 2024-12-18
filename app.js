@@ -1,0 +1,1 @@
+console.log('AI Diagnostic App Loaded');
